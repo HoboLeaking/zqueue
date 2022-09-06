@@ -1,5 +1,5 @@
 // Originally written by devpetrikov for use in Sunshine State RP (discord.gg/ssrp)
-// Modified by zfbx for compatibility with zdiscord
+// Modified by zfbx and Hobo (Joe) for compatibility with zdiscord
 
 const config = require(`${GetResourcePath(GetCurrentResourceName())}/config`);
 const utils = require(`${GetResourcePath("zdiscord")}/server/utils`);
